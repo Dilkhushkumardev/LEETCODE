@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dilkhush-30/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dilkhush-30/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dilkhush-30/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Dilkhush-30/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/Dilkhush-30/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Dilkhush-30/LEETCODE/tree/master/0328-odd-even-linked-list) |
 ## Math
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dilkhush-30/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dilkhush-30/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0138-copy-list-with-random-pointer](https://github.com/Dilkhush-30/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Dilkhush-30/LEETCODE/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
