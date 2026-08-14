@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Dilkhush-30/LEETCODE/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1590-make-sum-divisible-by-p](https://github.com/Dilkhush-30/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Dilkhush-30/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dilkhush-30/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1590-make-sum-divisible-by-p](https://github.com/Dilkhush-30/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dilkhush-30/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Dilkhush-30/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -201,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/Dilkhush-30/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Dilkhush-30/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
