@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Dilkhush-30/LEETCODE/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Dilkhush-30/LEETCODE/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Dilkhush-30/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Dilkhush-30/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dilkhush-30/LEETCODE/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dilkhush-30/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Dilkhush-30/LEETCODE/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/Dilkhush-30/LEETCODE/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dilkhush-30/LEETCODE/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Backtracking
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dilkhush-30/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Dilkhush-30/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dilkhush-30/LEETCODE/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## String Matching
@@ -223,4 +228,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
