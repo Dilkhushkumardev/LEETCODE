@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Dilkhush-30/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/Dilkhush-30/LEETCODE/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Dilkhush-30/LEETCODE/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Dilkhush-30/LEETCODE/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Dilkhush-30/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dilkhush-30/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/Dilkhush-30/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
