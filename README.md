@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dilkhush-30/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dilkhush-30/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dilkhush-30/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0633-sum-of-square-numbers](https://github.com/Dilkhush-30/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dilkhush-30/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Dilkhush-30/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Dilkhush-30/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dilkhush-30/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dilkhush-30/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dilkhush-30/LEETCODE/tree/master/0016-3sum-closest) |
+| [0633-sum-of-square-numbers](https://github.com/Dilkhush-30/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
