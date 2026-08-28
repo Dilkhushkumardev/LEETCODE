@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dilkhush-30/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0459-repeated-substring-pattern](https://github.com/Dilkhush-30/LEETCODE/tree/master/0459-repeated-substring-pattern) |
+| [0481-magical-string](https://github.com/Dilkhush-30/LEETCODE/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Dilkhush-30/LEETCODE/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Dilkhush-30/LEETCODE/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/Dilkhush-30/LEETCODE/tree/master/0686-repeated-string-match) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dilkhush-30/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dilkhush-30/LEETCODE/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/Dilkhush-30/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0481-magical-string](https://github.com/Dilkhush-30/LEETCODE/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Dilkhush-30/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
