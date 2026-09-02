@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Dilkhush-30/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dilkhush-30/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Dilkhush-30/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dilkhush-30/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Dilkhush-30/LEETCODE/tree/master/0645-set-mismatch) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dilkhush-30/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dilkhush-30/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Dilkhush-30/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dilkhush-30/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Dilkhush-30/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/Dilkhush-30/LEETCODE/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Dilkhush-30/LEETCODE/tree/master/0482-license-key-formatting) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dilkhush-30/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Dilkhush-30/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dilkhush-30/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dilkhush-30/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
