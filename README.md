@@ -285,10 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dilkhush-30/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dilkhush-30/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dilkhush-30/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dilkhush-30/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dilkhush-30/LEETCODE/tree/master/0214-shortest-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dilkhush-30/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
