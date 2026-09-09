@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dilkhush-30/LEETCODE/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dilkhush-30/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Dilkhush-30/LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dilkhush-30/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dilkhush-30/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dilkhush-30/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Dilkhush-30/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Dilkhush-30/LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dilkhush-30/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Dilkhush-30/LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
