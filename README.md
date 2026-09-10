@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Dilkhush-30/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Dilkhush-30/LEETCODE/tree/master/0645-set-mismatch) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dilkhush-30/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dilkhush-30/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dilkhush-30/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
@@ -291,11 +292,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dilkhush-30/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dilkhush-30/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dilkhush-30/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dilkhush-30/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dilkhush-30/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dilkhush-30/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Indexed Tree
 |  |
@@ -334,9 +337,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dilkhush-30/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dilkhush-30/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Longest Common Subsequence
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Dilkhush-30/LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dilkhush-30/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Binary Lifting
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dilkhush-30/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dilkhush-30/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## DP on Trees
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dilkhush-30/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
