@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Dilkhush-30/LEETCODE/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Dilkhush-30/LEETCODE/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/Dilkhush-30/LEETCODE/tree/master/0686-repeated-string-match) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dilkhush-30/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Dilkhush-30/LEETCODE/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Dilkhush-30/LEETCODE/tree/master/0831-masking-personal-information) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dilkhush-30/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dilkhush-30/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Dilkhush-30/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dilkhush-30/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Dilkhush-30/LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Greedy
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dilkhush-30/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Dilkhush-30/LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Breadth-First Search
 |  |
