@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Dilkhush-30/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Dilkhush-30/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Dilkhush-30/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Dilkhush-30/LEETCODE/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dilkhush-30/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dilkhush-30/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0214-shortest-palindrome](https://github.com/Dilkhush-30/LEETCODE/tree/master/0214-shortest-palindrome) |
+| [0394-decode-string](https://github.com/Dilkhush-30/LEETCODE/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dilkhush-30/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Dilkhush-30/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/Dilkhush-30/LEETCODE/tree/master/0481-magical-string) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Dilkhush-30/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dilkhush-30/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Dilkhush-30/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Dilkhush-30/LEETCODE/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/Dilkhush-30/LEETCODE/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Dilkhush-30/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dilkhush-30/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
