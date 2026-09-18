@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dilkhush-30/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0633-sum-of-square-numbers](https://github.com/Dilkhush-30/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0932-beautiful-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Dilkhush-30/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0932-beautiful-array) |
 | [1046-last-stone-weight](https://github.com/Dilkhush-30/LEETCODE/tree/master/1046-last-stone-weight) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Dilkhush-30/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dilkhush-30/LEETCODE/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dilkhush-30/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Dilkhush-30/LEETCODE/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Dilkhush-30/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
