@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dilkhush-30/LEETCODE/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dilkhush-30/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
+| [3453-separate-squares-i](https://github.com/Dilkhush-30/LEETCODE/tree/master/3453-separate-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dilkhush-30/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dilkhush-30/LEETCODE/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3453-separate-squares-i](https://github.com/Dilkhush-30/LEETCODE/tree/master/3453-separate-squares-i) |
 ## Divide and Conquer
 |  |
 | ------- |
