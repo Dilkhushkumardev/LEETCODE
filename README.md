@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Dilkhush-30/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0932-beautiful-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dilkhush-30/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Dilkhush-30/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Recursion
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Dilkhush-30/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dilkhush-30/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Dilkhush-30/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Dilkhush-30/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/Dilkhush-30/LEETCODE/tree/master/3453-separate-squares-i) |
 ## Binary Search
 |  |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dilkhush-30/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Dilkhush-30/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Enumeration
 |  |
 | ------- |
