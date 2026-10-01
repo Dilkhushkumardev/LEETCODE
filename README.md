@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dilkhush-30/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Dilkhush-30/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dilkhush-30/LEETCODE/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1895-largest-magic-square](https://github.com/Dilkhush-30/LEETCODE/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dilkhush-30/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dilkhush-30/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Dilkhush-30/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Dilkhush-30/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [1895-largest-magic-square](https://github.com/Dilkhush-30/LEETCODE/tree/master/1895-largest-magic-square) |
 ## Quicksort
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Dilkhush-30/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [1895-largest-magic-square](https://github.com/Dilkhush-30/LEETCODE/tree/master/1895-largest-magic-square) |
 ## Geometry
 |  |
 | ------- |
