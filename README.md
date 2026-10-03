@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1664-ways-to-make-a-fair-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dilkhush-30/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Dilkhush-30/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dilkhush-30/LEETCODE/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-largest-magic-square](https://github.com/Dilkhush-30/LEETCODE/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dilkhush-30/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0481-magical-string](https://github.com/Dilkhush-30/LEETCODE/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Dilkhush-30/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dilkhush-30/LEETCODE/tree/master/0011-container-with-most-water) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Trie
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Dilkhush-30/LEETCODE/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dilkhush-30/LEETCODE/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dilkhush-30/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Backtracking
