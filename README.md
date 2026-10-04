@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Dilkhush-30/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dilkhush-30/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dilkhush-30/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dilkhush-30/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dilkhush-30/LEETCODE/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-largest-magic-square](https://github.com/Dilkhush-30/LEETCODE/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dilkhush-30/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dilkhush-30/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dilkhush-30/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Dilkhush-30/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dilkhush-30/LEETCODE/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dilkhush-30/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dilkhush-30/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Backtracking
 |  |
