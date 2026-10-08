@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dilkhush-30/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dilkhush-30/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dilkhush-30/LEETCODE/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Dilkhush-30/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Dilkhush-30/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dilkhush-30/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Dilkhush-30/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Dilkhush-30/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Dilkhush-30/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/Dilkhush-30/LEETCODE/tree/master/3453-separate-squares-i) |
 ## Binary Search
@@ -427,4 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Dilkhush-30/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Dilkhush-30/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Dilkhush-30/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
