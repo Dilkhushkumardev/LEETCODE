@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Dilkhush-30/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dilkhush-30/LEETCODE/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dilkhush-30/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## String Matching
 |  |
 | ------- |
@@ -433,8 +434,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Dilkhush-30/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dilkhush-30/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Dilkhush-30/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dilkhush-30/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
