@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dilkhush-30/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dilkhush-30/LEETCODE/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Dilkhush-30/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3813-vowel-consonant-score](https://github.com/Dilkhush-30/LEETCODE/tree/master/3813-vowel-consonant-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dilkhush-30/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dilkhush-30/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
+| [3813-vowel-consonant-score](https://github.com/Dilkhush-30/LEETCODE/tree/master/3813-vowel-consonant-score) |
 ## Bit Manipulation
 |  |
 | ------- |
