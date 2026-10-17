@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0932-beautiful-array) |
+| [0941-valid-mountain-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0941-valid-mountain-array) |
 | [1046-last-stone-weight](https://github.com/Dilkhush-30/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Dilkhush-30/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dilkhush-30/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
