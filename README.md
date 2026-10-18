@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Dilkhush-30/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dilkhush-30/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Dilkhush-30/LEETCODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dilkhush-30/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0633-sum-of-square-numbers](https://github.com/Dilkhush-30/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0932-beautiful-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Dilkhush-30/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Dilkhush-30/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Dilkhush-30/LEETCODE/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Dilkhush-30/LEETCODE/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dilkhush-30/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Dilkhush-30/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dilkhush-30/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
